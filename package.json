@@ -1,9 +1,10 @@
 {
     "name": "nextjs-template",
     "description": "A template for building sites with Next.js",
+    "main": "index.js",
     "repository": {
-        "url": "https://github.com/gantta/nextjs-template.git",
-        "type": "Git"
+        "url": "git+https://github.com/gantta/nextjs-template.git",
+        "type": "git"
     },
     "license": "MIT",
     "version": "0.0.0",
